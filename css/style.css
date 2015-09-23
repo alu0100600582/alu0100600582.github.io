@@ -1,0 +1,20 @@
+#titulo{
+  margin: 1%;
+  border: black 10px solid;
+}
+
+#introduccion{
+
+}
+
+#stw{
+  margin: 1%;
+  padding: 1%;
+  border: black 2px solid;
+}
+
+#footer{
+  position: absolute;
+	bottom: 0;
+
+}
