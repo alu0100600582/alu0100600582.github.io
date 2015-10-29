@@ -11,10 +11,19 @@
   margin: 1%;
   padding: 1%;
   border: black 2px solid;
+
+
+}
+
+ul>li {
+   list-style-type: square;
+}
+ul>li>ul>li {
+   list-style-type: circle;
 }
 
 #footer{
-  position: absolute;
+  position: relative;
 	bottom: 0;
 
 }
